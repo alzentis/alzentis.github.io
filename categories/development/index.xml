@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Development on Ancordss-Blog!</title>
-    <link>https://ancordss.github.io/categories/development/</link>
-    <description>Recent content in Development on Ancordss-Blog!</description>
+    <title>Development on Alzentis-Blog!</title>
+    <link>https://blog.alzentis.com/categories/development/</link>
+    <description>Recent content in Development on Alzentis-Blog!</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</url>
       <link>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Oct 2023 16:52:34 -0600</lastBuildDate><atom:link href="https://ancordss.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Oct 2023 16:52:34 -0600</lastBuildDate><atom:link href="https://blog.alzentis.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Go-Kafka implementation</title>
-      <link>https://ancordss.github.io/post/getting-staterd-go-with-kafka/</link>
+      <link>https://blog.alzentis.com/post/getting-staterd-go-with-kafka/</link>
       <pubDate>Mon, 09 Oct 2023 16:52:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/post/getting-staterd-go-with-kafka/</guid>
+      <guid>https://blog.alzentis.com/post/getting-staterd-go-with-kafka/</guid>
       <description>Prerequisites Before diving into Go and Kafka integration, ensure you have the following tools installed on your system:
 Go Docker Docker Compose Setting Up Kafka with Docker Compose To get started with Kafka, we&amp;rsquo;ll use Docker Compose to create a local Kafka environment. Below is a docker-compose.yml file that sets up Kafka with Zookeeper and Kafdrop for monitoring:
 yaml `version: &amp;#39;3&amp;#39; services: zookeeper: image: confluentinc/cp-zookeeper:7.3.2 container_name: zookeeper environment: ZOOKEEPER_CLIENT_PORT: 2181 ZOOKEEPER_TICK_TIME: 2000 broker: image: confluentinc/cp-kafka:7.</description>
@@ -24,10 +24,10 @@ yaml `version: &amp;#39;3&amp;#39; services: zookeeper: image: confluentinc/cp-z
     
     <item>
       <title>DevOps CI/CD Project 02</title>
-      <link>https://ancordss.github.io/post/devops-project02/</link>
+      <link>https://blog.alzentis.com/post/devops-project02/</link>
       <pubDate>Tue, 09 Aug 2022 22:18:56 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/devops-project02/</guid>
+      <guid>https://blog.alzentis.com/post/devops-project02/</guid>
       <description>Simple DevOps Project -02 Prerequisites: Ansible server Jenkins Server Tocmat Server Part-01 Integration Setps Install &amp;ldquo;publish Over SSH&amp;rdquo;
 Manage Jenkins &amp;gt; Manage Plugins &amp;gt; Available &amp;gt; Publish over SSH Enable connection between Ansible and Jenkins
 Manage Jenkins &amp;gt; Configure System &amp;gt; Publish Over SSH &amp;gt; SSH Servers
@@ -37,20 +37,20 @@ Part-02 - Execute job to connect create a copywarfile.yml on Ansible under /opt/
     
     <item>
       <title>DevOps CI/CD 1</title>
-      <link>https://ancordss.github.io/post/devops-project01/</link>
+      <link>https://blog.alzentis.com/post/devops-project01/</link>
       <pubDate>Sun, 07 Aug 2022 19:43:44 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/devops-project01/</guid>
+      <guid>https://blog.alzentis.com/post/devops-project01/</guid>
       <description>Simple DevOps Project -01 We know how to use work with each and Git, Jenkins independently. What if you want to collaborate these two? that is where Simple DevOps project helps you. Follow below steps if you are a new guy to DevOps. You love it.
 Prerequisites Azure vm with tomcat installation Jenkins server Part-01 : Adding steps for Integration Steps to create Jenkin job Login to Jenkins console Create Jenkins job, Fill the following details, Source Code Management: Repository: https://github.</description>
     </item>
     
     <item>
       <title>Creating Hugo Website on Archlinux</title>
-      <link>https://ancordss.github.io/post/creating-hugo-website/</link>
+      <link>https://blog.alzentis.com/post/creating-hugo-website/</link>
       <pubDate>Sat, 30 Apr 2022 16:49:30 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/creating-hugo-website/</guid>
+      <guid>https://blog.alzentis.com/post/creating-hugo-website/</guid>
       <description>this is the second page i make with hugo this is my blog and my website in this short post i will show you how to create a page with hugo in linux so let&amp;rsquo;s start Step 1 install Hugo - Pacman -Sy hugo Step 2 create a new site - hugo new site quickstart Step 3 Add a theme (you can go to themes.gohugo.io/ and search for one)
 cd quickstart git init git submodule add https://github.</description>
     </item>

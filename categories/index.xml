@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Ancordss-Blog!</title>
-    <link>https://ancordss.github.io/categories/</link>
-    <description>Recent content in Categories on Ancordss-Blog!</description>
+    <title>Categories on Alzentis-Blog!</title>
+    <link>https://blog.alzentis.com/categories/</link>
+    <description>Recent content in Categories on Alzentis-Blog!</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</url>
       <link>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Nov 2023 12:14:34 -0600</lastBuildDate><atom:link href="https://ancordss.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 12:14:34 -0600</lastBuildDate><atom:link href="https://blog.alzentis.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps</title>
-      <link>https://ancordss.github.io/categories/devops/</link>
+      <link>https://blog.alzentis.com/categories/devops/</link>
       <pubDate>Thu, 23 Nov 2023 12:14:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/categories/devops/</guid>
+      <guid>https://blog.alzentis.com/categories/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eng</title>
-      <link>https://ancordss.github.io/categories/eng/</link>
+      <link>https://blog.alzentis.com/categories/eng/</link>
       <pubDate>Thu, 23 Nov 2023 12:14:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/categories/eng/</guid>
+      <guid>https://blog.alzentis.com/categories/eng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://ancordss.github.io/categories/development/</link>
+      <link>https://blog.alzentis.com/categories/development/</link>
       <pubDate>Mon, 09 Oct 2023 16:52:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/categories/development/</guid>
+      <guid>https://blog.alzentis.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatitation</title>
-      <link>https://ancordss.github.io/categories/automatitation/</link>
+      <link>https://blog.alzentis.com/categories/automatitation/</link>
       <pubDate>Fri, 26 Aug 2022 19:32:23 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/categories/automatitation/</guid>
+      <guid>https://blog.alzentis.com/categories/automatitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Esp</title>
-      <link>https://ancordss.github.io/categories/esp/</link>
+      <link>https://blog.alzentis.com/categories/esp/</link>
       <pubDate>Sat, 06 Aug 2022 22:18:02 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/categories/esp/</guid>
+      <guid>https://blog.alzentis.com/categories/esp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cli-App</title>
-      <link>https://ancordss.github.io/categories/cli-app/</link>
+      <link>https://blog.alzentis.com/categories/cli-app/</link>
       <pubDate>Sat, 06 Aug 2022 01:24:33 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/categories/cli-app/</guid>
+      <guid>https://blog.alzentis.com/categories/cli-app/</guid>
       <description></description>
     </item>
     

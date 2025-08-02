@@ -1,91 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ancordss-Blog!</title>
-    <link>https://ancordss.github.io/</link>
-    <description>Recent content on Ancordss-Blog!</description>
+    <title>Alzentis-Blog!</title>
+    <link>https://blog.alzentis.com/</link>
+    <description>Recent content on Alzentis-Blog!</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</url>
       <link>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jun 2024 22:53:55 -0600</lastBuildDate><atom:link href="https://ancordss.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Para mi princesita hermosa</title>
-      <link>https://ancordss.github.io/lizie/6ani/</link>
-      <pubDate>Fri, 21 Jun 2024 22:53:55 -0600</pubDate>
-      
-      <guid>https://ancordss.github.io/lizie/6ani/</guid>
-      <description>Hola mi amor, como estas? espero allas encontrado esta facil, no sabia como decirte esto pero
-Gracias, Eres tan increiblemente hermosa, preciosa, comprensiba, atenta conmigo y por eso te queria dar gracias me haces muy feliz siempre y me muestras tu lado mas bonito, te quiero por la persona que eres como actuas como hablas y tratas a los demas te amo por todo eso y mas porque siempre me demuestras y me haces sentir tan querido.</description>
-    </item>
-    
-    <item>
-      <title>Nop</title>
-      <link>https://ancordss.github.io/lizie/nop/</link>
-      <pubDate>Sun, 16 Jun 2024 16:40:45 -0600</pubDate>
-      
-      <guid>https://ancordss.github.io/lizie/nop/</guid>
-      <description>amor aqui no es !!!!!</description>
-    </item>
-    
-    <item>
-      <title>Para la mujer de mis sueños</title>
-      <link>https://ancordss.github.io/lizie/5/</link>
-      <pubDate>Sun, 16 Jun 2024 16:38:53 -0600</pubDate>
-      
-      <guid>https://ancordss.github.io/lizie/5/</guid>
-      <description>mi amor si llegaste hasta aqui significa que estuvo muy facil, pero aqui no es debes de seguir buscando no sabes que puedes encontrar cada dia/semana/mes de diferente jasjdfa te amooooo mi princesa linda recuerda tomar aguita chi</description>
-    </item>
-    
-    <item>
-      <title>para el amor de mi vida (lizie)</title>
-      <link>https://ancordss.github.io/lizie/4/</link>
-      <pubDate>Sun, 16 Jun 2024 16:21:06 -0600</pubDate>
-      
-      <guid>https://ancordss.github.io/lizie/4/</guid>
-      <description>hola mi amor, como estas? sabes siento que no podria vivir ahora ni nunca sin ti eres una persona tan bonita amor osea conmigo y siento que enserio quiero todo contigo podria hacer todo por ti, no me molestaria o incomodaria por algo asi, si quieres hacer algo y solo porque digo no me gusta dimelo lo hare, lo intentare hacer normalmente me gusta que me digan que hacer (que me digas que hacer), soy tuyo y tu eres mia por supuesto puedo intentar nuevas cosas por nuestra relacion</description>
-    </item>
-    
-    <item>
-      <title>para mi tesoro</title>
-      <link>https://ancordss.github.io/lizie/3/</link>
-      <pubDate>Fri, 03 May 2024 16:19:11 -0600</pubDate>
-      
-      <guid>https://ancordss.github.io/lizie/3/</guid>
-      <description>hola mi bebita sabes estuve pensando que deberiamos casarnos ya, te extranio mucho quiero verteee y darte mucho amor, aunque te puedo ver y asi, no se necesito siempre estar a tu lado
-se que suena intenso pero asi soy yo te voy a dar todo de mi mientras pueda y si no te gusta te aguantas de mi ya no te escapas mi amor te amo te quiero</description>
-    </item>
-    
-    <item>
-      <title>Para mi cielo</title>
-      <link>https://ancordss.github.io/lizie/2/</link>
-      <pubDate>Fri, 12 Apr 2024 16:16:51 -0600</pubDate>
-      
-      <guid>https://ancordss.github.io/lizie/2/</guid>
-      <description>Hola mi amor
-como esta es una carta la 2 o 3? no se si cuentan las que te hago a mano jasfjas pero escribo esta para decirte lo mucho que te amo, eres tan especial para mi que a veces veo tus fotos y asi y por alguna razon me dan ganas de llorar &amp;lt;3 te amo
-por cierto seguire creando mas espero puedas encontrarlas todas amor</description>
-    </item>
-    
-    <item>
-      <title>Para Lizie</title>
-      <link>https://ancordss.github.io/lizie/1/</link>
-      <pubDate>Sun, 24 Mar 2024 22:37:29 -0600</pubDate>
-      
-      <guid>https://ancordss.github.io/lizie/1/</guid>
-      <description>¡Holaaa lindaa! 🥺🥺
-No soy bueno escribiendo cartas, además mi letra es muy mala como para escribirte una a mano, así que creé esto, ¡una página solo para escribirte cartas! 📝✨ A la cual solo tú tienes acceso, a no ser que compartas el link (no lo hagas, ¡es solo para ti! jajaja) 🔒
-Solo quería decirte que cada vez que hablas o te diriges a mí es de alguna forma especial.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 23 Nov 2023 12:14:34 -0600</lastBuildDate><atom:link href="https://blog.alzentis.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streamlining AWS CloudFormation with cfn-modules: A Time-Saving Solution</title>
-      <link>https://ancordss.github.io/post/blogging/cfn-modules1/</link>
+      <link>https://blog.alzentis.com/post/blogging/cfn-modules1/</link>
       <pubDate>Thu, 23 Nov 2023 12:14:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/post/blogging/cfn-modules1/</guid>
+      <guid>https://blog.alzentis.com/post/blogging/cfn-modules1/</guid>
       <description>Are you tired of wrestling with lengthy YAML or JSON scripts every time you deploy an AWS CloudFormation stack? Enter cfn-modules, a game-changer that can revolutionize your CloudFormation workflow and save you valuable time.
 What is cfn-modules?
 Cfn-modules is a productivity powerhouse designed to accelerate your AWS CloudFormation experience. It acts as a library of pre-built, reusable templates for various AWS services, eliminating the need to start from scratch with every deployment.</description>
@@ -93,10 +24,10 @@ Cfn-modules is a productivity powerhouse designed to accelerate your AWS CloudFo
     
     <item>
       <title>Docker Go-Kafka implementation</title>
-      <link>https://ancordss.github.io/post/getting-staterd-go-with-kafka/</link>
+      <link>https://blog.alzentis.com/post/getting-staterd-go-with-kafka/</link>
       <pubDate>Mon, 09 Oct 2023 16:52:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/post/getting-staterd-go-with-kafka/</guid>
+      <guid>https://blog.alzentis.com/post/getting-staterd-go-with-kafka/</guid>
       <description>Prerequisites Before diving into Go and Kafka integration, ensure you have the following tools installed on your system:
 Go Docker Docker Compose Setting Up Kafka with Docker Compose To get started with Kafka, we&amp;rsquo;ll use Docker Compose to create a local Kafka environment. Below is a docker-compose.yml file that sets up Kafka with Zookeeper and Kafdrop for monitoring:
 yaml `version: &amp;#39;3&amp;#39; services: zookeeper: image: confluentinc/cp-zookeeper:7.3.2 container_name: zookeeper environment: ZOOKEEPER_CLIENT_PORT: 2181 ZOOKEEPER_TICK_TIME: 2000 broker: image: confluentinc/cp-kafka:7.</description>
@@ -104,19 +35,19 @@ yaml `version: &amp;#39;3&amp;#39; services: zookeeper: image: confluentinc/cp-z
     
     <item>
       <title>DevOps Ci/Cd python,docker,jenkins</title>
-      <link>https://ancordss.github.io/post/devops-project04/</link>
+      <link>https://blog.alzentis.com/post/devops-project04/</link>
       <pubDate>Fri, 26 Aug 2022 19:32:23 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/devops-project04/</guid>
+      <guid>https://blog.alzentis.com/post/devops-project04/</guid>
       <description>Steps Continuos integration merge all code work into a master branch code reviews, copile,build, unit tests,integration tests Continuos delivery deploy to test Server (in this case azure vm) UAT,QA build are delivered throughout the life cycle Continuis Deployment deploy to prod sercer or release Work Job in this case where deploy the image in the same machine where jenkins is running and if it is successful then it is going to publish it to the docker hub and then the next stage jenkins will actually deploy the image to the server</description>
     </item>
     
     <item>
       <title>DevOps CI/CD Project 02</title>
-      <link>https://ancordss.github.io/post/devops-project02/</link>
+      <link>https://blog.alzentis.com/post/devops-project02/</link>
       <pubDate>Tue, 09 Aug 2022 22:18:56 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/devops-project02/</guid>
+      <guid>https://blog.alzentis.com/post/devops-project02/</guid>
       <description>Simple DevOps Project -02 Prerequisites: Ansible server Jenkins Server Tocmat Server Part-01 Integration Setps Install &amp;ldquo;publish Over SSH&amp;rdquo;
 Manage Jenkins &amp;gt; Manage Plugins &amp;gt; Available &amp;gt; Publish over SSH Enable connection between Ansible and Jenkins
 Manage Jenkins &amp;gt; Configure System &amp;gt; Publish Over SSH &amp;gt; SSH Servers
@@ -126,20 +57,20 @@ Part-02 - Execute job to connect create a copywarfile.yml on Ansible under /opt/
     
     <item>
       <title>DevOps CI/CD 1</title>
-      <link>https://ancordss.github.io/post/devops-project01/</link>
+      <link>https://blog.alzentis.com/post/devops-project01/</link>
       <pubDate>Sun, 07 Aug 2022 19:43:44 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/devops-project01/</guid>
+      <guid>https://blog.alzentis.com/post/devops-project01/</guid>
       <description>Simple DevOps Project -01 We know how to use work with each and Git, Jenkins independently. What if you want to collaborate these two? that is where Simple DevOps project helps you. Follow below steps if you are a new guy to DevOps. You love it.
 Prerequisites Azure vm with tomcat installation Jenkins server Part-01 : Adding steps for Integration Steps to create Jenkin job Login to Jenkins console Create Jenkins job, Fill the following details, Source Code Management: Repository: https://github.</description>
     </item>
     
     <item>
       <title>Metodologia_scrum</title>
-      <link>https://ancordss.github.io/post/meto_scrum/</link>
+      <link>https://blog.alzentis.com/post/meto_scrum/</link>
       <pubDate>Sat, 06 Aug 2022 22:18:02 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/meto_scrum/</guid>
+      <guid>https://blog.alzentis.com/post/meto_scrum/</guid>
       <description>que es Scrum es una metodologia de gestion de proyectos, framework con metodologia agile
 es una guia que cada equipo puede adaptar a sus necesidades
 [insertar imagen]
@@ -151,10 +82,10 @@ gestiona el backlog del proyecto prioriza los despliegues contaco directo con lo
     
     <item>
       <title>Metodologia Agile</title>
-      <link>https://ancordss.github.io/post/meto_agile/</link>
+      <link>https://blog.alzentis.com/post/meto_agile/</link>
       <pubDate>Sat, 06 Aug 2022 21:41:09 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/meto_agile/</guid>
+      <guid>https://blog.alzentis.com/post/meto_agile/</guid>
       <description>que es agile metodologia de desarrollo de paradigmas
 se divide el projecto en diferentes etapas llamados sprints
 metodologia -&amp;gt; Filosofia
@@ -168,10 +99,10 @@ beneficios e inconvenientes ventas inconvenientes estapas mas pequenias -&amp;gt
     
     <item>
       <title>Cli app schedule</title>
-      <link>https://ancordss.github.io/post/go-horario/</link>
+      <link>https://blog.alzentis.com/post/go-horario/</link>
       <pubDate>Sat, 06 Aug 2022 01:24:33 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/go-horario/</guid>
+      <guid>https://blog.alzentis.com/post/go-horario/</guid>
       <description>Preview Install Clone the repository or download the package from here:
 https://github.com/Ancordss/CLI-HorarioAPP.git
 enter the folder open terminal and run this command
@@ -184,10 +115,10 @@ copy and paste the following command at the end of the file
     
     <item>
       <title>Kubernetes</title>
-      <link>https://ancordss.github.io/post/kubernetes/</link>
+      <link>https://blog.alzentis.com/post/kubernetes/</link>
       <pubDate>Sat, 06 Aug 2022 00:49:56 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/kubernetes/</guid>
+      <guid>https://blog.alzentis.com/post/kubernetes/</guid>
       <description>What is Kubernetes? is a technology that allows to orchestrate docker containers componenetes:
 control plane Node Scheduler kube-proxy kubelet etcd controller manager Cloud controller manager Api server notes for using kubernets requirements: docker
 install kubectl and kubernetes have docker installed
@@ -198,10 +129,10 @@ most used commands kubectl config get-contexts kubectl get ns [show pods] kubect
     
     <item>
       <title>Kubernetes[espa] </title>
-      <link>https://ancordss.github.io/post/kubernetes_es/</link>
+      <link>https://blog.alzentis.com/post/kubernetes_es/</link>
       <pubDate>Tue, 10 May 2022 16:02:38 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/kubernetes_es/</guid>
+      <guid>https://blog.alzentis.com/post/kubernetes_es/</guid>
       <description>que es Kubernetes? es una tecnologia que permite orquestar contenedores docker componenetes: control plane Node Scheduler kube-proxy kubelet etcd controller manager Cloud controller manager Api server notas para usar kubernets requisitos: docker
 instalar kubectl y kubernetes tener instalado docker
 para usar o practicar usar minikube para iniciar minikube correr :
@@ -211,20 +142,20 @@ comandos mas usados kubectl config get-contexts kubectl get ns [para ver pods] k
     
     <item>
       <title>Ansible | creando Playbooks</title>
-      <link>https://ancordss.github.io/post/ansible2/</link>
+      <link>https://blog.alzentis.com/post/ansible2/</link>
       <pubDate>Thu, 05 May 2022 15:45:55 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/ansible2/</guid>
+      <guid>https://blog.alzentis.com/post/ansible2/</guid>
       <description>Un playbook es un archivo donde se escribiran todas las tareas que quieres que se hagan con ansible es escrito en yml y es mas facil porque solo tendremos que ejecutarlo no tendremos que escribir cada comando y recordarlo. Primer paso crearemos una archivo llamado tareas.yml segundo paso escribiremos el siguiente codigo:
 --- - hosts: all name: creando un playbook become: true task: - name: instala vim apt: name=vim state=present - name: comando shell shell: echo hola - name: detiene servicio service: name=nginx state=stoppeda - name: start servicio service: name=nginx state=started &amp;ndash; [En la variable hosts podemos especificar ip/dominio igual podemos colocar el nombre de los grupos a los que queremos que se les apliquen estos cambios]</description>
     </item>
     
     <item>
       <title>Iniciando con Ansible</title>
-      <link>https://ancordss.github.io/post/ansible1/</link>
+      <link>https://blog.alzentis.com/post/ansible1/</link>
       <pubDate>Wed, 04 May 2022 16:57:32 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/ansible1/</guid>
+      <guid>https://blog.alzentis.com/post/ansible1/</guid>
       <description>para instalar ansible agrega el repositoria a ubuntu y luego correo sudo apt install ansible
 para que funcione bien tienes que tener un servidor al cual conectarte con ssh en mi caso estoy usando uno que cree con una maquin virtual
 comando para probar un ping ssh usuario@ip -p puerto en mi caso es
@@ -232,20 +163,24 @@ ssh anco@192.168.1.8 -p 22 si todo sale bien ahora podras controlar el servidor 
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://ancordss.github.io/about/</link>
+      <title>About Us</title>
+      <link>https://blog.alzentis.com/about/</link>
       <pubDate>Sat, 30 Apr 2022 18:54:24 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/about/</guid>
-      <description>Hi there, I&amp;rsquo;m james Maradiaga an open source lover and a systems engineering student 🚀 from Guatemala. Currently, I&amp;rsquo;m a full time ✏️ student and 🔎 looking for doing something interesting. &amp;gt; I&amp;rsquo;m currently learning SysAdmin ✔️ Go✔️ lua &amp;gt; I&amp;rsquo;m working on Discord Bot ✔️ Script DotMK ✔️ Virtual assistant My portfolio website. &amp;gt; Goals for 2022 Complete 30DayOfGo. ✔️ Build 10+ projects. Contribute to Open Source. &amp;gt; Ask me about Videogames Programming 📝 and anything&amp;hellip; </description>
+      <guid>https://blog.alzentis.com/about/</guid>
+      <description>At Alzentis, we are more than just a company — we are a team of passionate individuals united by a shared vision and a
+Who We Are Alzentis is a growing collective of passionate, curious, and creative minds, driven by a shared vision:
+to build something meaningful, together.
+We are not defined by titles or hierarchy, but by collaboration, trust, and the relentless pursuit of excellence.
+Our story began with a small team and a big dream — and we’re just getting started.</description>
     </item>
     
     <item>
       <title>Creating Hugo Website on Archlinux</title>
-      <link>https://ancordss.github.io/post/creating-hugo-website/</link>
+      <link>https://blog.alzentis.com/post/creating-hugo-website/</link>
       <pubDate>Sat, 30 Apr 2022 16:49:30 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/creating-hugo-website/</guid>
+      <guid>https://blog.alzentis.com/post/creating-hugo-website/</guid>
       <description>this is the second page i make with hugo this is my blog and my website in this short post i will show you how to create a page with hugo in linux so let&amp;rsquo;s start Step 1 install Hugo - Pacman -Sy hugo Step 2 create a new site - hugo new site quickstart Step 3 Add a theme (you can go to themes.gohugo.io/ and search for one)
 cd quickstart git init git submodule add https://github.</description>
     </item>

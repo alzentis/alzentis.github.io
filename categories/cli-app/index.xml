@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cli-App on Ancordss-Blog!</title>
-    <link>https://ancordss.github.io/categories/cli-app/</link>
-    <description>Recent content in Cli-App on Ancordss-Blog!</description>
+    <title>Cli-App on Alzentis-Blog!</title>
+    <link>https://blog.alzentis.com/categories/cli-app/</link>
+    <description>Recent content in Cli-App on Alzentis-Blog!</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</url>
       <link>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Aug 2022 01:24:33 +0000</lastBuildDate><atom:link href="https://ancordss.github.io/categories/cli-app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Aug 2022 01:24:33 +0000</lastBuildDate><atom:link href="https://blog.alzentis.com/categories/cli-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cli app schedule</title>
-      <link>https://ancordss.github.io/post/go-horario/</link>
+      <link>https://blog.alzentis.com/post/go-horario/</link>
       <pubDate>Sat, 06 Aug 2022 01:24:33 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/go-horario/</guid>
+      <guid>https://blog.alzentis.com/post/go-horario/</guid>
       <description>Preview Install Clone the repository or download the package from here:
 https://github.com/Ancordss/CLI-HorarioAPP.git
 enter the folder open terminal and run this command

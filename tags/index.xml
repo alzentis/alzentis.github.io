@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Ancordss-Blog!</title>
-    <link>https://ancordss.github.io/tags/</link>
-    <description>Recent content in Tags on Ancordss-Blog!</description>
+    <title>Tags on Alzentis-Blog!</title>
+    <link>https://blog.alzentis.com/tags/</link>
+    <description>Recent content in Tags on Alzentis-Blog!</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</url>
       <link>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Nov 2023 12:14:34 -0600</lastBuildDate><atom:link href="https://ancordss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 12:14:34 -0600</lastBuildDate><atom:link href="https://blog.alzentis.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging</title>
-      <link>https://ancordss.github.io/tags/blogging/</link>
+      <link>https://blog.alzentis.com/tags/blogging/</link>
       <pubDate>Thu, 23 Nov 2023 12:14:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/tags/blogging/</guid>
+      <guid>https://blog.alzentis.com/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://ancordss.github.io/tags/development/</link>
+      <link>https://blog.alzentis.com/tags/development/</link>
       <pubDate>Thu, 23 Nov 2023 12:14:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/tags/development/</guid>
+      <guid>https://blog.alzentis.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast</title>
-      <link>https://ancordss.github.io/tags/fast/</link>
+      <link>https://blog.alzentis.com/tags/fast/</link>
       <pubDate>Thu, 23 Nov 2023 12:14:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/tags/fast/</guid>
+      <guid>https://blog.alzentis.com/tags/fast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DataEnginners</title>
-      <link>https://ancordss.github.io/tags/dataenginners/</link>
+      <link>https://blog.alzentis.com/tags/dataenginners/</link>
       <pubDate>Mon, 09 Oct 2023 16:52:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/tags/dataenginners/</guid>
+      <guid>https://blog.alzentis.com/tags/dataenginners/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://ancordss.github.io/tags/go/</link>
+      <link>https://blog.alzentis.com/tags/go/</link>
       <pubDate>Mon, 09 Oct 2023 16:52:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/tags/go/</guid>
+      <guid>https://blog.alzentis.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Develpment</title>
-      <link>https://ancordss.github.io/tags/develpment/</link>
+      <link>https://blog.alzentis.com/tags/develpment/</link>
       <pubDate>Fri, 26 Aug 2022 19:32:23 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/tags/develpment/</guid>
+      <guid>https://blog.alzentis.com/tags/develpment/</guid>
       <description></description>
     </item>
     

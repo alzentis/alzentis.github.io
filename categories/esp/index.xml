@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Esp on Ancordss-Blog!</title>
-    <link>https://ancordss.github.io/categories/esp/</link>
-    <description>Recent content in Esp on Ancordss-Blog!</description>
+    <title>Esp on Alzentis-Blog!</title>
+    <link>https://blog.alzentis.com/categories/esp/</link>
+    <description>Recent content in Esp on Alzentis-Blog!</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</url>
       <link>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Aug 2022 22:18:02 +0000</lastBuildDate><atom:link href="https://ancordss.github.io/categories/esp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Aug 2022 22:18:02 +0000</lastBuildDate><atom:link href="https://blog.alzentis.com/categories/esp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metodologia_scrum</title>
-      <link>https://ancordss.github.io/post/meto_scrum/</link>
+      <link>https://blog.alzentis.com/post/meto_scrum/</link>
       <pubDate>Sat, 06 Aug 2022 22:18:02 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/meto_scrum/</guid>
+      <guid>https://blog.alzentis.com/post/meto_scrum/</guid>
       <description>que es Scrum es una metodologia de gestion de proyectos, framework con metodologia agile
 es una guia que cada equipo puede adaptar a sus necesidades
 [insertar imagen]
@@ -28,10 +28,10 @@ gestiona el backlog del proyecto prioriza los despliegues contaco directo con lo
     
     <item>
       <title>Metodologia Agile</title>
-      <link>https://ancordss.github.io/post/meto_agile/</link>
+      <link>https://blog.alzentis.com/post/meto_agile/</link>
       <pubDate>Sat, 06 Aug 2022 21:41:09 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/meto_agile/</guid>
+      <guid>https://blog.alzentis.com/post/meto_agile/</guid>
       <description>que es agile metodologia de desarrollo de paradigmas
 se divide el projecto en diferentes etapas llamados sprints
 metodologia -&amp;gt; Filosofia
@@ -45,10 +45,10 @@ beneficios e inconvenientes ventas inconvenientes estapas mas pequenias -&amp;gt
     
     <item>
       <title>Kubernetes[espa] </title>
-      <link>https://ancordss.github.io/post/kubernetes_es/</link>
+      <link>https://blog.alzentis.com/post/kubernetes_es/</link>
       <pubDate>Tue, 10 May 2022 16:02:38 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/kubernetes_es/</guid>
+      <guid>https://blog.alzentis.com/post/kubernetes_es/</guid>
       <description>que es Kubernetes? es una tecnologia que permite orquestar contenedores docker componenetes: control plane Node Scheduler kube-proxy kubelet etcd controller manager Cloud controller manager Api server notas para usar kubernets requisitos: docker
 instalar kubectl y kubernetes tener instalado docker
 para usar o practicar usar minikube para iniciar minikube correr :
@@ -58,20 +58,20 @@ comandos mas usados kubectl config get-contexts kubectl get ns [para ver pods] k
     
     <item>
       <title>Ansible | creando Playbooks</title>
-      <link>https://ancordss.github.io/post/ansible2/</link>
+      <link>https://blog.alzentis.com/post/ansible2/</link>
       <pubDate>Thu, 05 May 2022 15:45:55 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/ansible2/</guid>
+      <guid>https://blog.alzentis.com/post/ansible2/</guid>
       <description>Un playbook es un archivo donde se escribiran todas las tareas que quieres que se hagan con ansible es escrito en yml y es mas facil porque solo tendremos que ejecutarlo no tendremos que escribir cada comando y recordarlo. Primer paso crearemos una archivo llamado tareas.yml segundo paso escribiremos el siguiente codigo:
 --- - hosts: all name: creando un playbook become: true task: - name: instala vim apt: name=vim state=present - name: comando shell shell: echo hola - name: detiene servicio service: name=nginx state=stoppeda - name: start servicio service: name=nginx state=started &amp;ndash; [En la variable hosts podemos especificar ip/dominio igual podemos colocar el nombre de los grupos a los que queremos que se les apliquen estos cambios]</description>
     </item>
     
     <item>
       <title>Iniciando con Ansible</title>
-      <link>https://ancordss.github.io/post/ansible1/</link>
+      <link>https://blog.alzentis.com/post/ansible1/</link>
       <pubDate>Wed, 04 May 2022 16:57:32 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/ansible1/</guid>
+      <guid>https://blog.alzentis.com/post/ansible1/</guid>
       <description>para instalar ansible agrega el repositoria a ubuntu y luego correo sudo apt install ansible
 para que funcione bien tienes que tener un servidor al cual conectarte con ssh en mi caso estoy usando uno que cree con una maquin virtual
 comando para probar un ping ssh usuario@ip -p puerto en mi caso es

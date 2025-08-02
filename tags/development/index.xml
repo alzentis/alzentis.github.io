@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Development on Ancordss-Blog!</title>
-    <link>https://ancordss.github.io/tags/development/</link>
-    <description>Recent content in Development on Ancordss-Blog!</description>
+    <title>Development on Alzentis-Blog!</title>
+    <link>https://blog.alzentis.com/tags/development/</link>
+    <description>Recent content in Development on Alzentis-Blog!</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</url>
       <link>https://avatars.githubusercontent.com/u/87324382?s=400&amp;u=3a0cbb2958a9346ac0d43164be8903afb12a511e&amp;v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Nov 2023 12:14:34 -0600</lastBuildDate><atom:link href="https://ancordss.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 12:14:34 -0600</lastBuildDate><atom:link href="https://blog.alzentis.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streamlining AWS CloudFormation with cfn-modules: A Time-Saving Solution</title>
-      <link>https://ancordss.github.io/post/blogging/cfn-modules1/</link>
+      <link>https://blog.alzentis.com/post/blogging/cfn-modules1/</link>
       <pubDate>Thu, 23 Nov 2023 12:14:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/post/blogging/cfn-modules1/</guid>
+      <guid>https://blog.alzentis.com/post/blogging/cfn-modules1/</guid>
       <description>Are you tired of wrestling with lengthy YAML or JSON scripts every time you deploy an AWS CloudFormation stack? Enter cfn-modules, a game-changer that can revolutionize your CloudFormation workflow and save you valuable time.
 What is cfn-modules?
 Cfn-modules is a productivity powerhouse designed to accelerate your AWS CloudFormation experience. It acts as a library of pre-built, reusable templates for various AWS services, eliminating the need to start from scratch with every deployment.</description>
@@ -24,10 +24,10 @@ Cfn-modules is a productivity powerhouse designed to accelerate your AWS CloudFo
     
     <item>
       <title>Docker Go-Kafka implementation</title>
-      <link>https://ancordss.github.io/post/getting-staterd-go-with-kafka/</link>
+      <link>https://blog.alzentis.com/post/getting-staterd-go-with-kafka/</link>
       <pubDate>Mon, 09 Oct 2023 16:52:34 -0600</pubDate>
       
-      <guid>https://ancordss.github.io/post/getting-staterd-go-with-kafka/</guid>
+      <guid>https://blog.alzentis.com/post/getting-staterd-go-with-kafka/</guid>
       <description>Prerequisites Before diving into Go and Kafka integration, ensure you have the following tools installed on your system:
 Go Docker Docker Compose Setting Up Kafka with Docker Compose To get started with Kafka, we&amp;rsquo;ll use Docker Compose to create a local Kafka environment. Below is a docker-compose.yml file that sets up Kafka with Zookeeper and Kafdrop for monitoring:
 yaml `version: &amp;#39;3&amp;#39; services: zookeeper: image: confluentinc/cp-zookeeper:7.3.2 container_name: zookeeper environment: ZOOKEEPER_CLIENT_PORT: 2181 ZOOKEEPER_TICK_TIME: 2000 broker: image: confluentinc/cp-kafka:7.</description>
@@ -35,10 +35,10 @@ yaml `version: &amp;#39;3&amp;#39; services: zookeeper: image: confluentinc/cp-z
     
     <item>
       <title>Cli app schedule</title>
-      <link>https://ancordss.github.io/post/go-horario/</link>
+      <link>https://blog.alzentis.com/post/go-horario/</link>
       <pubDate>Sat, 06 Aug 2022 01:24:33 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/go-horario/</guid>
+      <guid>https://blog.alzentis.com/post/go-horario/</guid>
       <description>Preview Install Clone the repository or download the package from here:
 https://github.com/Ancordss/CLI-HorarioAPP.git
 enter the folder open terminal and run this command
@@ -51,20 +51,20 @@ copy and paste the following command at the end of the file
     
     <item>
       <title>Ansible | creando Playbooks</title>
-      <link>https://ancordss.github.io/post/ansible2/</link>
+      <link>https://blog.alzentis.com/post/ansible2/</link>
       <pubDate>Thu, 05 May 2022 15:45:55 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/ansible2/</guid>
+      <guid>https://blog.alzentis.com/post/ansible2/</guid>
       <description>Un playbook es un archivo donde se escribiran todas las tareas que quieres que se hagan con ansible es escrito en yml y es mas facil porque solo tendremos que ejecutarlo no tendremos que escribir cada comando y recordarlo. Primer paso crearemos una archivo llamado tareas.yml segundo paso escribiremos el siguiente codigo:
 --- - hosts: all name: creando un playbook become: true task: - name: instala vim apt: name=vim state=present - name: comando shell shell: echo hola - name: detiene servicio service: name=nginx state=stoppeda - name: start servicio service: name=nginx state=started &amp;ndash; [En la variable hosts podemos especificar ip/dominio igual podemos colocar el nombre de los grupos a los que queremos que se les apliquen estos cambios]</description>
     </item>
     
     <item>
       <title>Iniciando con Ansible</title>
-      <link>https://ancordss.github.io/post/ansible1/</link>
+      <link>https://blog.alzentis.com/post/ansible1/</link>
       <pubDate>Wed, 04 May 2022 16:57:32 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/ansible1/</guid>
+      <guid>https://blog.alzentis.com/post/ansible1/</guid>
       <description>para instalar ansible agrega el repositoria a ubuntu y luego correo sudo apt install ansible
 para que funcione bien tienes que tener un servidor al cual conectarte con ssh en mi caso estoy usando uno que cree con una maquin virtual
 comando para probar un ping ssh usuario@ip -p puerto en mi caso es
@@ -73,10 +73,10 @@ ssh anco@192.168.1.8 -p 22 si todo sale bien ahora podras controlar el servidor 
     
     <item>
       <title>Creating Hugo Website on Archlinux</title>
-      <link>https://ancordss.github.io/post/creating-hugo-website/</link>
+      <link>https://blog.alzentis.com/post/creating-hugo-website/</link>
       <pubDate>Sat, 30 Apr 2022 16:49:30 +0000</pubDate>
       
-      <guid>https://ancordss.github.io/post/creating-hugo-website/</guid>
+      <guid>https://blog.alzentis.com/post/creating-hugo-website/</guid>
       <description>this is the second page i make with hugo this is my blog and my website in this short post i will show you how to create a page with hugo in linux so let&amp;rsquo;s start Step 1 install Hugo - Pacman -Sy hugo Step 2 create a new site - hugo new site quickstart Step 3 Add a theme (you can go to themes.gohugo.io/ and search for one)
 cd quickstart git init git submodule add https://github.</description>
     </item>
