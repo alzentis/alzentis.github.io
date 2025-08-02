@@ -1,5 +1,5 @@
-baseURL: "https://ancordss.github.io/"
-title: Ancordss-Blog!
+baseURL: "https://blog.alzentis.com/"
+title: Alzentis-Blog!
 paginate: 7
 theme: PaperMod
 
@@ -16,10 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: James-Maradiaga
-  description: "web blog created by James-Maradiaga to explain DevOps things"
+  title: Alzentis
+  description: "Built by Alzentis. A space to test, learn, and show what we’re passionate about."
   keywords: [Blog, Portfolio, PaperMod]
-  author: Ancordss
+  author: James Maradiaga
   # author: ["Me", "You"] # multiple authors
   images: ["https://avatars.githubusercontent.com/u/87324382?s=400&u=3a0cbb2958a9346ac0d43164be8903afb12a511e&v=4"]
   DateFormat: "January 2, 2006"
@@ -75,7 +75,7 @@ params:
   
 # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: James Maradiaga
     subtitle: "Go and python Developer | DevOps | Linux enthusiast"
     imageUrl: "https://avatars.githubusercontent.com/u/87324382?s=400&u=3a0cbb2958a9346ac0d43164be8903afb12a511e&v=4"
@@ -93,7 +93,7 @@ params:
    # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Welcome to the Alzentis blog
 
   socialIcons:
     - name: twitter
