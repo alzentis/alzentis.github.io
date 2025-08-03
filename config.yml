@@ -112,7 +112,7 @@ params:
       SiteVerificationTag: "XYZabc"
     
   label:
-    text: "Ancordss-Blog!"
+    text: "Alzentis-Blog!"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -122,7 +122,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/Ancordss/Ancordss.github.io/tree/main/content"
+    URL: "https://github.com/alzentis/alzentis.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
